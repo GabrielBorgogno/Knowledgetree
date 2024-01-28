@@ -5,7 +5,7 @@ I've organized my skills tree using roadmaps.sh to showcase my expertise in vari
 ## Languages
 ![image](https://github.com/GabrielBorgogno/Knowledgetree/assets/92234529/451f5117-9a3b-4981-bb7e-e97bcd5b8482)
 
-## Operations Systems
+## Operational Systems
 ![image](https://github.com/GabrielBorgogno/Knowledgetree/assets/92234529/dfd89039-9413-4f42-a7b7-9bebc3bfe9d6)
 
 ## Cloud
